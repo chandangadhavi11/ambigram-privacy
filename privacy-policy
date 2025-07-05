@@ -1,124 +1,127 @@
-**PRIVACY POLICY**
-*Last updated July 05, 2025*
+# Ambigram – Privacy Policy  
+_Last updated: **July 05 2025**_
 
-Welcome to **Ambigram** (“**Ambigram**,” “**we**,” “**us**” or “**our**”).  This Privacy Policy explains how and why we collect, store, use and share (“**process**”) your information when you:
+Welcome to **Ambigram** (“**Ambigram**,” “**we**,” “**us**” or “**our**”).  
+This Privacy Policy explains how and why we collect, store, use and share (“**process**”) your information when you:
 
-* download and use the **Ambigram** mobile application (the “**App**”);
-* visit any website or landing page that links to this Privacy Policy; or
-* engage with us in any related way, including sales, marketing or events.
+- download and use the **Ambigram** mobile application (the **App**);
+- visit any website or landing page that links to this Privacy Policy; or
+- engage with us in related ways (sales, marketing, events).
 
-If you do not agree with our practices, please do not use the App.
-Questions? Contact us at **[privacy@ambigram.app](mailto:privacy@ambigram.app)**.
-
----
-
-## 1.  INFORMATION WE COLLECT
-
-### Personal information you provide to us
-
-| Category               | Examples                                                                                                                           | Purpose                                              |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| **Identifiers**        | Name (optional), e-mail address, Google/Apple ID, or similar account credentials if you create an account or contact us            | Account creation, support, communication             |
-| **User Content**       | Ambigram designs you create, images you import or export, background choices, comments or feedback you submit                      | Provide the core service; enable sharing/downloading |
-| **Device Permissions** | Storage (to save images), Photos/Media (to import backgrounds or save exports), Push-notification token (to send tips, reminders)  | Enable expected functionality                        |
-| **Usage Data**         | In-app interactions, feature use, crash logs, and diagnostics (collected via Firebase Crashlytics & Google Analytics for Firebase) | App stability, analytics and improvement             |
-| **Advertising Data**   | Google AdMob advertising identifier and coarse location (derived from IP), if you view ads in the free tier                        | Ad delivery, frequency capping, fraud prevention     |
-
-We do **not** collect sensitive personal information (e.g., race, religion, sexual orientation, biometric data) and we do **not** ask children under 13 (or the minimum age in your jurisdiction) to use the App.
+If you do not agree with our practices, **please do not use the App**.  
+Questions? Contact us at **privacy@ambigram.app**.
 
 ---
 
-## 2.  HOW WE PROCESS YOUR INFORMATION
+## 1  Information We Collect
 
-1. **Provide & maintain the App** – create ambigrams, render previews, store designs locally or in your cloud backup.
-2. **Improve & develop new features** – analyze aggregated usage data to understand which tools people love (or don’t).
-3. **Personalise your experience** – remember preferred font presets, color themes or recent designs.
-4. **Marketing & communication** – send occasional product updates, only with your consent.
-5. **Security & fraud prevention** – detect spam, abuse or unauthorised ad clicks.
-6. **Legal compliance** – comply with tax, audit and other statutory obligations.
+### Personal data you provide
 
-We rely on the following legal bases: **(a) Contract** (to deliver the App you requested); **(b) Legitimate interests** (improve security, analytics); **(c) Consent** (for marketing push notifications); and **(d) Legal obligation** (when regulators require).
+| Category | Examples | Purpose |
+|----------|----------|---------|
+| **Identifiers** | Name (optional), e-mail, Google/Apple ID, IP address | Account creation, support |
+| **User Content** | Ambigram designs, imported images, background picks, feedback | Core service; sharing/downloading |
+| **Device Permissions** | Storage, Photos/Media, Push token | Enable expected features |
+| **Usage Data** | Clicks, feature use, crash logs (Firebase) | Analytics & stability |
+| **Advertising Data** | AdMob ID, coarse location | Ad delivery & fraud prevention |
 
----
-
-## 3.  SHARING YOUR INFORMATION
-
-We only share information:
-
-| Recipient type         | Reason / example                                                                                                 |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Service providers**  | Firebase (hosting, analytics, crash reports), Google AdMob (ad serving), RevenueCat (in-app purchase validation) |
-| **Business transfers** | If we merge, sell or transfer assets, your data may move as part of the transaction (we’ll notify you).          |
-| **Legal / safety**     | Where required by law, court order or to protect someone’s vital interests.                                      |
-
-We **never** sell your personal information.
+We **do not** collect sensitive categories (race, religion, biometrics) and do **not** target children under 13.
 
 ---
 
-## 4.  COOKIES & TRACKING
+## 2  How We Process Your Information
 
-The App itself does not use browser cookies, but third-party SDKs (Firebase, AdMob) set mobile identifiers or similar tracking technologies for analytics and advertising. You can reset or limit these identifiers in your device settings.
+1. **Provide & maintain the App** (create ambigrams, render previews).  
+2. **Improve & develop features** (aggregated analytics).  
+3. **Personalise your experience** (recent designs, font presets).  
+4. **Marketing** (push tips/updates – only with consent).  
+5. **Security & fraud prevention**.  
+6. **Legal compliance**.
 
----
-
-## 5.  DATA RETENTION
-
-We keep personal data only as long as necessary:
-
-* **Account & design data** – until you delete it in-app or request deletion.
-* **Analytics & crash logs** – 24 months (default Firebase retention) then aggregated or deleted.
-* **Legal records** – as long as laws require (e.g., tax invoices up to 7 years).
-
-When data is no longer needed we delete or anonymise it.
+Legal bases: **Contract**, **Legitimate Interests**, **Consent** and **Legal Obligation**.
 
 ---
 
-## 6.  CHILDREN’S PRIVACY
+## 3  Sharing Your Information
 
-Ambigram is **not directed to children under 13**.  We do not knowingly collect data from minors.  If you believe we have done so inadvertently, please contact us and we will delete it.
+| Recipient | Reason |
+|-----------|--------|
+| **Service providers** | Firebase (hosting, analytics, crash), Google AdMob (ads), RevenueCat (IAP) |
+| **Business transfers** | Merger, acquisition or asset sale (we’ll notify you) |
+| **Legal / safety** | Compliance with law or to protect vital interests |
+
+We **never sell** your personal information.
 
 ---
 
-## 7.  YOUR PRIVACY RIGHTS
+## 4  Cookies & Tracking
+
+The App itself uses no cookies. Third-party SDKs (Firebase, AdMob) set mobile identifiers for analytics/ads.  
+You can reset or limit these identifiers in iOS/Android settings.
+
+---
+
+## 5  Data Retention
+
+| Data | Typical retention |
+|------|-------------------|
+| Account & design files | Until you delete them or request deletion |
+| Analytics & crash logs | 24 months (Firebase default) |
+| Legal records | Up to 7 years (tax/audit) |
+
+Data that’s no longer needed is deleted or anonymised.
+
+---
+
+## 6  Children’s Privacy
+
+Ambigram is **not directed to children under 13**.  
+If we learn we hold data from a minor, we will delete it promptly.
+
+---
+
+## 7  Your Privacy Rights
 
 Depending on your location, you can:
 
-* Request a copy of the personal data we hold about you.
-* Ask us to correct, delete or restrict processing of your data.
-* Object to certain processing (e.g., direct marketing).
-* Withdraw consent at any time (this won’t affect prior lawful processing).
+- request a copy of your data;  
+- ask us to correct or delete data;  
+- restrict or object to processing;  
+- withdraw consent at any time.
 
-To exercise any right, e-mail **[privacy@ambigram.app](mailto:privacy@ambigram.app)** or use the in-app “Privacy & Data” form.  We will respond within 30 days (or the timeframe required by law).
-
----
-
-## 8.  DO-NOT-TRACK
-
-Because there is no uniform industry DNT standard, we currently do not respond to DNT signals.
+To exercise any right, use **Settings → Privacy & Data** in-app or e-mail **privacy@ambigram.app**.  
+We respond within 30 days (or as required by law).
 
 ---
 
-## 9.  CHANGES TO THIS POLICY
+## 8  Do-Not-Track
 
-We may update this Privacy Policy from time to time.  We will post the new version in-app and change the “Last updated” date.  Material changes will be announced via an in-app notice or e-mail.
-
----
-
-## 10.  CONTACT US
-
-**Ambigram**
-A/55, Paragraj Society
-Harni-Warasiya Ring Road
-Vadodara, Gujarat 390006
-India
-E-mail: **[privacy@ambigram.app](mailto:privacy@ambigram.app)**
+Because no universal DNT standard exists, we do not respond to DNT signals.
 
 ---
 
-### HOW TO REVIEW, UPDATE OR DELETE YOUR DATA
+## 9  Changes To This Policy
 
-Open the App → **Settings › Privacy & Data** or send an e-mail to **[privacy@ambigram.app](mailto:privacy@ambigram.app)** with your request.  We’ll guide you through verification and fulfil it unless restricted by law.
+We may update this document from time to time.  
+Look for the **“Last updated”** date at the top; material changes will be announced in-app or by e-mail.
 
 ---
 
-*Creating mirrored words should be fun – your privacy should be simple.  Thank you for trusting Ambigram!*
+## 10  Contact
+
+**Ambigram**  
+A/55 Paragraj Society  
+Harni-Warasiya Ring Road  
+Vadodara, Gujarat 390006  
+India  
+
+**E-mail:** privacy@ambigram.app
+
+---
+
+### How to Review, Update or Delete Your Data
+
+Open the App → **Settings › Privacy & Data**  
+_or_ e-mail **privacy@ambigram.app** and we’ll guide you through verification.
+
+> Creating mirrored words should be fun – your privacy should be simple.
